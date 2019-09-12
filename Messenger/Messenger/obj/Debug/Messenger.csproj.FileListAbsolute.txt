@@ -1,0 +1,11 @@
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\bin\Debug\Messenger.exe.config
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\bin\Debug\Messenger.exe
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\bin\Debug\Messenger.pdb
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\obj\Debug\Messenger.csprojAssemblyReference.cache
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\obj\Debug\Messenger.Form1.resources
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\obj\Debug\Messenger.Properties.Resources.resources
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\obj\Debug\Messenger.csproj.GenerateResource.cache
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\obj\Debug\Messenger.csproj.CoreCompileInputs.cache
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\obj\Debug\Messenger.csproj.CopyComplete
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\obj\Debug\Messenger.exe
+D:\PSOS\Trainer\Messenger\Messenger\Messenger\obj\Debug\Messenger.pdb
